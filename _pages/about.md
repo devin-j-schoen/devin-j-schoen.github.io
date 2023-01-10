@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student in Neuroscience program at the University of British Columbia, department of psychiatry. I am located at the djavad mowafaghian center for brain health within UBC Hospital.
-At work, I develop computational tools and collaborate with coworkers to explore relation between brain and behavior with in vivo imaging. With an engineering background in computer science, I am interested in building novel tools and platforms to address neuroscientific problems in health and disease. My research involves neuronal calcium imaging, closed-loop neurofeedback using a Brain-Computer Interface (BCI) to investigate plasticity and learning. 
+I am a Ph.D. student in the joint Bioengineering program through UC-Berkeley and UCSF. With a background in Physics, I decided to bridge the gap between Physics and Medicine by getting a Masters in Medical Physics where I discovered my passion for medical imaging. My previous research involved desiging and building particle detectors and using PET imaging to study substance use disorders.
+I am currently working in the Radiology Department of UCSF, rotatiting with different investigators to find the best fit for my thesis research. I intend to continue in the field of imaging to improve understanding and treatment of Neuropathologies.
 
-In my free time
+Beyond Research
 ======
-Traveling and anything outdoors, mountains and water excite me. I love meeting new people, learning about them, their culture and food. 
-
+In my free time I am an avid reader (Science Fiction and Fantasy mainly) and enjoy games (board, card, video) every once and awhile. When my brain needs a break from my normal studies, I like to study languages and classical literature or practice crafts like crocheting and ceramics. 
+I like to spend time outdoors, but take it slow and leisurely. 
