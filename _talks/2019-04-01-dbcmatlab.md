@@ -1,5 +1,5 @@
 ---
-title: "DBC Intro to Programming Courses"
+title: "Coming Soon!"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2019-04-01-dbcmatlab
