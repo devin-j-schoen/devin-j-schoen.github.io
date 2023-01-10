@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pankaj Gupta"
+title                    : "Devin Schoen"
 title_separator          : "-"
-name                     : &name "Pankaj Gupta"
-description              : &description "Graduate Student at University of British Columbia"
-url                      : https://pankajkgupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Devin Schoen"
+description              : &description "Ph.D. Student at University of California Berkeley & University of California San Francisco"
+url                      : https://devin-j-schoen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pankajkgupta.github.io"
+repository               : "devin-j-schoen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
