@@ -79,10 +79,9 @@ author:
   bio              : "Ph.D. Student at University of California Berkeley & University of California San Francisco - Bioengineering"
   location         : "San Francisco, California"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=3Q5BbaAAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=phmDFs0AAAAJ&hl=en&oi=sra"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Pankaj-Gupta-67"
+  researchgate     : "https://www.researchgate.net/profile/Devin-Schoen"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pankajkgupta"
+  github           : "devin-j-schoen"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "pguptasays"
+  twitter          : "devinjoell"
   vine             :
   weibo            :
   xing             :
