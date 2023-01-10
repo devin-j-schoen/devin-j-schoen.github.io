@@ -71,19 +71,13 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :	"UA-70400959-1"
-
 
 # Site Author
 author:
-  name             : "Pankaj Gupta"
-  avatar           : "profile.png"
-  bio              : "Graduate Student at University of British Columbia, Neuroscience"
-  location         : "Vancouver, Canada"
+  name             : "Devin Schoen"
+  avatar           : "devin1.jpg"
+  bio              : "Ph.D. Student at University of California Berkeley & University of California San Francisco - Bioengineering"
+  location         : "San Francisco, California"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=3Q5BbaAAAAAJ"
