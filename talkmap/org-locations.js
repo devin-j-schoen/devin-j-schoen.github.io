@@ -1,43 +1,13 @@
 var addressPoints = [
   [
-    "Washington DC, USA",
-    38.8950368,
-    -77.0365427
+    "San Francisco, California, USA",
+    37.768327,
+    -122.390602
   ],
   [
     "Portland, Oregon, USA",
     45.5202471,
     -122.6741949
-  ],
-  [
-    "Manitoba, Canada",
-    55.001251,
-    -97.001038
-  ],
-  [
-    "Online",
-    43.59047185,
-    3.8595132132013186
-  ],
-  [
-    "Vancouver, Canada",
-    49.2608724,
-    -123.113952
-  ],
-  [
-    "Alberta, Canada",
-    55.001251,
-    -115.002136
-  ],
-  [
-    "London, UK",
-    51.5073219,
-    -0.1276474
-  ],
-  [
-    "Quebec City, Canada",
-    46.8137431,
-    -71.2084061
   ],
   [
     "Montreal, Qc",
