@@ -1,5 +1,5 @@
 ---
-title: "The time between vaccination and infection impacts immunity against SARS-CoV-2 variants"
+title: "Antibody response and variant cross-neutralization after SARS-CoV-2 breakthrough infection"
 collection: publications
 permalink: /publications/2021-12-crossneut
 excerpt: 'Breakthrough infections after vaccination against SARS-CoV-2 are increasingly reported, possibly due to waning of vaccine-induced antibody levels.1 Moreover, emerging variants of concern with diminished susceptibility to vaccine-induced antibodies are responsible for most new cases.2,3 Studies have focused on determining the rate of vaccine breakthrough based on antibody levels after standard vaccination practices.4,5 We assessed antibody levels and variant cross-neutralization after breakthrough infection.'
