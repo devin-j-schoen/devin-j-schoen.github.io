@@ -6,7 +6,7 @@ excerpt: 'As the COVID-19 pandemic continues, long-term immunity against SARS-Co
 date: 2023-01-04
 venue: 'medRxiv'
 paperurl: 'https://doi.org/10.1101/2023.01.02.23284120'
-citation: 'Bates, T. et al. (January 2023). The time between vaccination and infection impacts immunity against SARS-CoV-2 variants. Cold Spring Harbor Laboratory Press. https://doi.org/10.1101/2023.01.02.23284120'
+citation: 'Timothy A. Bates, Hans C. Leier, Savannah K. McBride, Devin Schoen, Zoe L. Lyski, David X. Lee, William B. Messer, Marcel E. Curlin'
 ---
 
 <a href='https://doi.org/10.1101/2023.01.02.23284120'>Download paper here</a>
